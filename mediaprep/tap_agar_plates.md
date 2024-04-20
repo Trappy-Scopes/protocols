@@ -31,14 +31,23 @@ related protocols: ./inoculation/streaking_agar_plates.md
 ## 2. Petri plates preparation
 
 1. Melt small volumes (**~ 300 mL**) of agar containing TAP in the microwave (around **4 min** in total). Very importantly, the bottle lid must be twisted, leaving the bottle unsealed (but not open), otherwise it may explode.
+
 	```exp.user_prompt(auto_name); exp.delay("microwave", 4*60)```
+
 2. After a while (**1-2 min**), check the solution for solid material, and slowly agitate it, holding the bottle and making small circles in the air (use gloves!). The solution might expand due to overeating of the liquid fraction, so the agitation must be done with care.
+
 	```exp.user_prompt("cooldown process"); exp.delay("cooldown", 2*60)```
+
 3. Heat the solution until no more solid material is present (it should look translucid with a brownish colour).
+
 	```exp.time_task("heating")```
+
 4. Pour the solution in 25 mL Petri plates, until all the liquid portions are joined together, covering the whole plate base (approximately half plate height).
+
 	```exp.time_task("pour")```
+
 5. Do not dispose the plates on top of each other, to reduce condensation effects. Leave them at room temperature. After some time, once the agar is solid, they can be stored (see Fig. 1 below).
+
 	```exp.confirm("done")```
 
 ## Figures
