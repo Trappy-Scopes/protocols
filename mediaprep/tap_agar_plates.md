@@ -1,6 +1,6 @@
 ---
 author: Camila Costa
-Editor: Yatharth Bhasin
+editor: Yatharth Bhasin
 description: This describes the processes to inoculate Petri plates with Chlamydomonas: the agar solution for the medium, the Petri plates preparation, and how to streak them up with cells.
 attribution: [https://www.hispanagar.com/en/why-agar-used-microbiology, 
 https://agargel.com.br/en/agar-agar/]
