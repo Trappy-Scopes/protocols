@@ -20,7 +20,7 @@ related protocols: ./inoculation/streaking_agar_plates.md
 
 ## 1. Preparation of agar solution
 
-1. Add **1.5 %** (w/v) of agar to **~ 300 mL** of TAP (weight the agar powder on a beaker and then add the TAP).
+1. Add  **1.5 %** (w/v) (4.50gm) of agar to **~ 300 mL** of TAP (weight the agar powder on a beaker and then add the TAP).
 2. Mix with a magnetic stirrer with no heating. The dissolution will be done *a posteriori*, before filling the Petri plates.
 3. Store the solution in a glass bottle, not completely full to allow for liquid expansion during the posterior melting.
 4. Label(a) and send to autoclave (for **20 min**, at **121 ºC**), with no water bath (see below).
@@ -34,7 +34,7 @@ related protocols: ./inoculation/streaking_agar_plates.md
 
 	```exp.user_prompt(auto_name); exp.delay("microwave", 4*60)```
 
-2. After a while (**1-2 min**), check the solution for solid material, and slowly agitate it, holding the bottle and making small circles in the air (use gloves!). The solution might expand due to overeating of the liquid fraction, so the agitation must be done with care.
+2. After a while (**1-2 min**), check the solution for solid material, and slowly agitate it, holding the bottle and making small circles in the air (use gloves!). The solution might expand due to overheating of the liquid fraction, so the agitation must be done with care.
 
 	```exp.user_prompt("cooldown process"); exp.delay("cooldown", 2*60)```
 
