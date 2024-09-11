@@ -23,7 +23,7 @@ This protocol describes the steps to make TAP+P (additional phosphate) media by 
 3. Potassium Phosphate Solution
 4. Hutner's trace elements (Chlamydomonas Resource Center) stored at 4ºC cold storage.
 5. Glacial acetic acid ACS, 99.7+% (Alfa Aesar)
-6. 1L distille'deionized water (ddH$_2$O)
+6. 1L distille'deionized water (dd $H_2O$)
 7. 1X 1L beaker
 8. 3X 0.5L Shott Bottles
 9. Magnetic stirrer and plate
@@ -41,7 +41,7 @@ This protocol describes the steps to make TAP+P (additional phosphate) media by 
 
 ​	Combine the first 4 compounds in a beaker (1L).
 
-2. Add ddH2O to **1 L**.
+2. Add dd $H_2O$ to **1 L**.
 3. Start magnetic stirring.
 
 ## 2. Titration to pH 7.0 $\pm$ 0.2
@@ -72,15 +72,15 @@ This protocol describes the steps to make TAP+P (additional phosphate) media by 
 
 The final concentrations of TAP+P media will be:
 
-| **Compound**            | **Amount** |
-| ----------------------- | ---------- |
-| Tris                    | 20 m*M*    |
-| C2H3O2- (acetate)       | 30 m*M*    |
-| Cl-                     | 7.7 m*M*   |
-| NH3+                    | 7 m*M*     |
-| K+                      | 6.5 m*M*   |
-| PO4-                    | 4 m*M*     |
-| Mg2+                    | 0.4 m*M*   |
-| SO42-                   | 0.4 m*M*   |
-| Ca2+                    | 0.35 m*M*  |
-| Hutner’s trace elements |            |
+| **Compound**             | **Amount** |
+| ------------------------ | ---------- |
+| Tris                     | 20 m*M*    |
+| $C_2H_3O^{2-}$ (acetate) | 30 m*M*    |
+| $Cl^-$                   | 7.7 m*M*   |
+| $NH^{3+}$                | 7 m*M*     |
+| $K^+$                    | 6.5 m*M*   |
+| $PO^{4-}$                | 4 m*M*     |
+| $Mg^{2+}$                | 0.4 m*M*   |
+| $SO_4^{2-}$              | 0.4 m*M*   |
+| $Ca^{2+}$                | 0.35 m*M*  |
+| Hutner’s trace elements  |            |
