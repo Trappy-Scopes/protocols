@@ -2,67 +2,48 @@
 author: Camila Costa
 editor: Yatharth Bhasin
 description: This describes the processes to inoculate Petri plates with Chlamydomonas: the agar solution for the medium, the Petri plates preparation, and how to streak them up with cells.
-attribution: [https://www.hispanagar.com/en/why-agar-used-microbiology, 
+references: [https://www.hispanagar.com/en/why-agar-used-microbiology, 
 https://agargel.com.br/en/agar-agar/]
-related protocols: ./inoculation/streaking_agar_plates.md 
 ---
 
 # Protocol for preparation of agar plates
 
-
-
 ## Overview
 
-1. Preparation of agar solution
+1. Preparation of agar solution and autoclaving at 121ºC at 20mins.
 2. Preparation of petri plates
+3. Storage of plates
 
+## Requirements
 
+1. BactoAgar powder (BD Difco Bacto Dehydrated Agar)
+2. TAP+P media stocks (300mL for ~10 plates)
+3. 1X beaker 1L.
+4. Magentic stirrer and plate
+5. Microwave
 
 ## 1. Preparation of agar solution
 
-1. Add  **1.5 %** (w/v) (4.50gm) of agar to **~ 300 mL** of TAP (weight the agar powder on a beaker and then add the TAP).
+1. Add  **1.5 %** (w/v) (**4.50gm**) of agar to **~ 300 mL** of TAP (weight the agar powder on a beaker and then add the TAP+P liquid media).
 2. Mix with a magnetic stirrer with no heating. The dissolution will be done *a posteriori*, before filling the Petri plates.
 3. Store the solution in a glass bottle, not completely full to allow for liquid expansion during the posterior melting.
-4. Label(a) and send to autoclave (for **20 min**, at **121 ºC**), with no water bath (see below).
-5. Collect from the autoclave and store at room temperature. 
-
-
+4. Label ["LP", DATE, AgarStock-STOCKNUMBER] on a paper label and send to autoclave (for **20 min**, at **121 ºC**), **with no water bath**.
+5. Collect from the autoclave and store at room temperature.
 
 ## 2. Petri plates preparation
 
-1. Melt small volumes (**~ 300 mL**) of agar containing TAP in the microwave (around **4 min** in total). Very importantly, the bottle lid must be twisted, leaving the bottle unsealed (but not open), otherwise it may explode.
-
-	```exp.user_prompt(auto_name); exp.delay("microwave", 4*60)```
+1. Melt small volumes (**~ 300 mL**) of agar containing TAP+P in the microwave (around **4 min** in total). Very importantly, the bottle lid must be twisted, leaving the bottle unsealed (but not open), otherwise it may explode.
 
 2. After a while (**1-2 min**), check the solution for solid material, and slowly agitate it, holding the bottle and making small circles in the air (use gloves!). The solution might expand due to overheating of the liquid fraction, so the agitation must be done with care.
 
-	```exp.user_prompt("cooldown process"); exp.delay("cooldown", 2*60)```
-
 3. Heat the solution until no more solid material is present (it should look translucid with a brownish colour).
-
-	```exp.time_task("heating")```
 
 4. Pour the solution in 25 mL Petri plates, until all the liquid portions are joined together, covering the whole plate base (approximately half plate height).
 
-	```exp.time_task("pour")```
-
 5. Do not dispose the plates on top of each other, to reduce condensation effects. Leave them at room temperature. After some time, once the agar is solid, they can be stored (see Fig. 1 below).
 
-	```exp.confirm("done")```
 
-## Figures
-
-<img src="/Users/byatharth/code/yatharthb97.github.io/static/images/classnotes/image-20240420125927015.png" alt="image-20240420125927015" style="zoom:10%;" /> 	Figure 1: Stored, solidified agar plates.
-
-
-
-<img src="/Users/byatharth/code/yatharthb97.github.io/static/images/classnotes/image-20240420125952165.png" alt="image-20240420125952165" style="zoom:10%;" />     Figure 2: Inoculated agar plates.
-
-
-
-<img src="/Users/byatharth/code/yatharthb97.github.io/static/images/classnotes/image-20240420130026103.png" alt="image-20240420130026103" style="zoom:20%;" />      Figure 3: Scheme of the streaking path.
-
-
+## 3. Storage of plates
 
 ## Additional information
 
