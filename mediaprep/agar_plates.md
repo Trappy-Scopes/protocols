@@ -1,6 +1,5 @@
 ---
-author: Camila Costa
-editor: Yatharth Bhasin
+authors: Camila Costa, Yatharth Bhasin
 description: This describes the processes to inoculate Petri plates with Chlamydomonas: the agar solution for the medium, the Petri plates preparation, and how to streak them up with cells.
 references: [https://www.hispanagar.com/en/why-agar-used-microbiology, 
 https://agargel.com.br/en/agar-agar/]
@@ -18,9 +17,11 @@ https://agargel.com.br/en/agar-agar/]
 
 1. BactoAgar powder (BD Difco Bacto Dehydrated Agar)
 2. TAP+P media stocks (300mL for ~10 plates)
-3. 1X beaker 1L.
-4. Magentic stirrer and plate
-5. Microwave
+3. 10X Petri dishes
+4. 1X beaker 1L.
+5. Magentic stirrer and plate
+6. Microwave
+7. Laminar flow / flame (sterile conditions)
 
 ## 1. Preparation of agar solution
 
@@ -38,12 +39,16 @@ https://agargel.com.br/en/agar-agar/]
 
 3. Heat the solution until no more solid material is present (it should look translucid with a brownish colour).
 
-4. Pour the solution in 25 mL Petri plates, until all the liquid portions are joined together, covering the whole plate base (approximately half plate height).
+4. Lay out plates and bring the bottle to a sterile place (laminar flow /flame) and then open.
 
-5. Do not dispose the plates on top of each other, to reduce condensation effects. Leave them at room temperature. After some time, once the agar is solid, they can be stored (see Fig. 1 below).
+5. Pour the solution in 25 mL Petri dishes, until all the liquid portions are joined together, covering the whole plate base (approximately half plate height).
+
+6. Do not dispose the plates on top of each other, to reduce condensation effects. Leave them at room temperature. After some time, once the agar is solid, they can be stored (see Fig. 1 below).
 
 
 ## 3. Storage of plates
+
+How to fix condensation?
 
 ## Additional information
 
