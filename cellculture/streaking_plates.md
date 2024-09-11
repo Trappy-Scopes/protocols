@@ -23,6 +23,6 @@ description: This describes the processes to inoculate Petri plates with Chlamyd
 
 ## Reference images
 
-![streaked_plates](./images/streaked_plates.png)
+![streaked_plates](/images/streaked_plates.png)
 
-![streak_pattern](./images/streak_pattern.png)
+![streak_pattern](/images/streak_pattern.png)
