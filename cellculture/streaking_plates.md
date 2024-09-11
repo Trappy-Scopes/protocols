@@ -23,6 +23,10 @@ description: This describes the processes to inoculate Petri plates with Chlamyd
 
 ## Reference images
 
+### Streaked plates - placed uside down
+
 ![streaked_plates](/images/streaked_plates.png)
+
+### Streake pattern - using two different inoculating loops
 
 ![streak_pattern](/images/streak_pattern.png)
