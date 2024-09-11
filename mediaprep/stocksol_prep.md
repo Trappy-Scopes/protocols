@@ -24,9 +24,9 @@ references: https://doi.org/10.1016/B978-0-12-397945-2.00019-6
 
 5. Salt solution
   1. NH$_4$Cl powder (chemlab - CL0011461000)
-  2. MgSO$_4$•7H$_2$O powder (chemlab - CL0013021000)
-  3. CaCl$_2$•2H$_2$O powder (chemlab - CL0003170250)
-  4. 1L ddH$_2$O
+  2. MgSO $_4$ •7H $_2$ O powder (chemlab - CL0013021000)
+  3. CaCl $_2$ •2H $_2$ O powder (chemlab - CL0003170250)
+  4. 1L ddH $_2$ O
 
 6. Potassium phosphate solution
   1. K$_2$HPO$_4$ powder (chemlab - CL0011561000)
