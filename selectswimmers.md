@@ -48,6 +48,6 @@ Preferably, this procedure should be done after 2 hours of the beginning of the 
     | 20          | 7.0              | 8.0             |
 
 5. The density of these cultures should be around 10^5 cells per mL. The culture can be further diluted by addition of fresh media to about 5X10^5 cells.
-    You can use the formula: C1V1 = C2V2 and Vadd = V2 - Vss
+    > You can use the formula: C1V1 = C2V2 and Vadd = V2 - Vss
 
 6. The culture is ready for use. Its done.
