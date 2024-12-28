@@ -21,6 +21,7 @@ Preferably, this procedure should be done after 2 hours of the beginning of the 
 
 0. Select cultures that are in the log growth phase: 6th day or 10^6 cells per mL.
 1. Place the cell culture in the centrifuge and spin at 500rcf for 10mins at 25ºC.
+	
 
 	```python
 	exp.delay("Centrifugation", 10*60)
