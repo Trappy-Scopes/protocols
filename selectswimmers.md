@@ -25,6 +25,7 @@ Preferably, this procedure should be done after 2 hours of the beginning of the 
 
 	```python
 	exp.delay("Centrifugation", 10*60)
+	scope.beacon.pulse(3)
 	```
 2. After the centrifugation finishes, carefully bring the tubes to the bench and replace the caps with parafilm.
 3. Place the culture tubes in an enclosure with strong white light for 30 mins.
