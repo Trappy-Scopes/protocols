@@ -33,11 +33,8 @@ The protocol for trapping cells.
   ```python
   #ScriptEngine.run_now("/scripts/lab/metaexperiment.py", globals())
   ```
-
   1. Log temperature from the differnt terminals. And adjust thermostat. Clean the benches with ethanol.
-
   2. Create meta-experiment on current scope and reboot the whole cluster.
-
   3. Start trappyscopes on the whole cluster (with the experiment script)
 
 2. **Setting-up of individual experiments, traps, and trap-purge**
@@ -66,20 +63,12 @@ The protocol for trapping cells.
 4. **Cell trapping(s)**
 
 	1. Add the syringes to the other stopcock without creating bubbles and open the valves, this should equalise the pressure.
-
-	2. Let about 0.25mL of culture pass before trying to confine cells.
-
-	  3. Confine a "low contrast, small, fast" cell.
-
+	2. Let about 0.25mL of culture pass before trying to confine cells.  
+	3. Confine a "low contrast, small, fast" cell.
 	4. Mark the process with the following flags:
-
-		**orange:** single cell trapped but not verified. 
-		**green** : verified to be a single cell after atleast 10mins.
-
-		**red** : air bubbles / re-purgeing. Set to purge and move to another microscope.
-
-	
-
+		**orange**: single cell trapped but not verified. 
+		**green**: verified to be a single cell after atleast 10mins.
+		**red**: air bubbles / re-purgeing. Set to purge and move to another microscope.
 	5. Once the cell is trapped, leave the stopcocks in closed positions.
 
 5. **Start acquisition of cluster A**
