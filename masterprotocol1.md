@@ -33,16 +33,16 @@ The protocol for trapping cells.
   ```python
   #ScriptEngine.run_now("/scripts/lab/metaexperiment.py", globals())
   ```
-  1. Log temperature from the differnt terminals. And adjust thermostat. Clean the benches with ethanol.
-  2. Create meta-experiment on current scope and reboot the whole cluster.
-  3. Start trappyscopes on the whole cluster (with the experiment script)
+  a. Log temperature from the differnt terminals. And adjust thermostat. Clean the benches with ethanol.
+  b. Create meta-experiment on current scope and reboot the whole cluster.
+  c. Start trappyscopes on the whole cluster (with the experiment script)
 
 2. **Setting-up of individual experiments, traps, and trap-purge**
-  1. Check the Network server for the presence of all the different experiments.
-  2. Add sterile (autoclaved) tubing, stopcock, and syringes to the devices.
-  3. Updates the trap id on each of the microscope and mount the trap. Focus and adjust the trap using the `test_fov` function.
-  4. Fill 8 syringes with fresh media and use them to purge from one side for all the microscopes.
-  5. Leave the microscopes to purge.
+  a. Check the Network server for the presence of all the different experiments.
+  b. Add sterile (autoclaved) tubing, stopcock, and syringes to the devices.
+  c. Updates the trap id on each of the microscope and mount the trap. Focus and adjust the trap using the `test_fov` function.
+  d. Fill 8 syringes with fresh media and use them to purge from one side for all the microscopes.
+  e. Leave the microscopes to purge.
 
 3. **Swimmer selection protocol**
 
