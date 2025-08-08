@@ -16,7 +16,7 @@ outcome: stock_piranha_solution
 3. Glass beakers
 4. Proper protection equipment - special gloves to handle the acid botttles.
 
-## Preparation steps
+## Steps
 
 1. Mix concentrated $H_{2}SO_{4}$ and 30 %w/w $H_2O_2$ in a 3:1 ratio respectively. Always add $H_{2}SO_{4}$​ first, never the opposite or it might cause an explosion. 
 	**Safety note:** The reasultant reaction is extremely exothermic and vigorous, which can cause serious injuries. Mix the solution in a glass beaker, which is placed inside a wider glass vessel to prevent any spillage outside.
