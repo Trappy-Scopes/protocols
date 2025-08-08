@@ -1,9 +1,7 @@
 # protocols
 Collection of protocols for the Living Physics/Trappy-Scopes laboratory.
 
-
-
-**Note: **
+### Notes
 
 1. **Cellculture maintainance process diagrams are obselete.**
 
