@@ -10,7 +10,7 @@ The protocol for trapping cells.
 ## Requirements
 
 1. Set of 8 traps.
-2. (fresh) 16 3-way valves (stopcocks)
+2. (fresh) 16 three-way valves (stopcocks)
 3. (autoclaved) syringe and tubing kit (16 each)
 
 ## Macro procedures
@@ -28,7 +28,7 @@ The protocol for trapping cells.
 
 ## Procedure
 
-1. **Creating of meta experiment and cluster bootup**
+1. **Creation of meta experiment and cluster bootup**
 
   ```python
   #ScriptEngine.run_now("/scripts/lab/metaexperiment.py", globals())
@@ -38,38 +38,37 @@ The protocol for trapping cells.
   c. Start trappyscopes on the whole cluster (with the experiment script)
 
 2. **Setting-up of individual experiments, traps, and trap-purge**
-  a. Check the Network server for the presence of all the different experiments.
-  b. Add sterile (autoclaved) tubing, stopcock, and syringes to the devices.
-  c. Updates the trap id on each of the microscope and mount the trap. Focus and adjust the trap using the `test_fov` function.
-  d. Fill 8 syringes with fresh media and use them to purge from one side for all the microscopes.
-  e. Leave the microscopes to purge.
+    a. Check the Network server for the presence of all the different experiments.
+    b. Add sterile (autoclaved) tubing, stopcock, and syringes to the devices.
+    c. Updates the trap id on each of the microscope and mount the trap. Focus and adjust the trap using the `test_fov` function.
+    d. Fill 8 syringes with fresh media and use them to purge from one side for all the microscopes.
+    e. Leave the microscopes to purge.
 
 3. **Swimmer selection protocol**
-
-  1. Start the cell-selection protocol
-  	0. Bring out the cells and start processing cultures.
-  	0. Take cells in their log phase: $10^5$ cells per mL (which are passaged daily).
-  	0. Remove a portion for doing daily dilutions: *about 10%*. (culture for the next day).
-  	0. Take the rest of the culture and replace cap with parafilm and put in the incubator for separation.
-  	0. Let cells sediment for 5 mins under illumination without any shaking.
-  	0. Extract the supernatant: About 25-50% fraction.
-  	0. Centrifuge the cells 'gently' for 3mins at 100g.
-  	0. Remove the top 25% fraction of the culture and isolate in a sterile tube (cover the tube in black tape).
-  	0. Count the isolated fraction and add media to set the density to $\approx 5 \times 10^5$ cells per mL (required volume = 16mL to 20mL)
-  	0. Target density: Assuming a trap size (2.8mm diameter and $34\mu m$ hight which yields a volume of $0.209mm^3$ or $0.209 \cross 10^{-3}mL$). This giives a target density of $0.48 \cross 10^4$ cells per mL.
-  2. Count cells and update them in the `cell_count` measurement stream.
-  3. Load 8 syringes with 2mL/3mL  of cell cultures each and cover them with black paper.
+     1. Start the cell-selection protocol
+     2. Bring out the cells and start processing cultures.
+     3. Take cells in their log phase: $10^5$ cells per mL (which are passaged daily).
+     4. Remove a portion for doing daily dilutions: *about 10%*. (culture for the next day).
+     5. Take the rest of the culture and replace cap with parafilm and put in the incubator for separation.
+     6. Let cells sediment for 5 mins under illumination without any shaking.
+     7. Extract the supernatant: About 25-50% fraction.
+     8. Centrifuge the cells 'gently' for 3mins at 100g.
+     9. Remove the top 25% fraction of the culture and isolate in a sterile tube (cover the tube in black tape).
+     10. Count the isolated fraction and add media to set the density to $\approx 5 \times 10^5$ cells per mL (required volume = 16mL to 20mL)
+     11. Target density: Assuming a trap size (2.8mm diameter and $34\mu m$ hight which yields a volume of $0.209mm^3$ or $0.209 \cross 10^{-3}mL$). This giives a target density of $0.48 \cross 10^4$ cells per mL.
+     12. Count cells and update them in the `cell_count` measurement stream.
+     13. Load 8 syringes with 2mL/3mL  of cell cultures each and cover them with black paper.
 
 4. **Cell trapping(s)**
 
-	1. Add the syringes to the other stopcock without creating bubbles and open the valves, this should equalise the pressure.
-	2. Let about 0.25mL of culture pass before trying to confine cells.  
-	3. Confine a "low contrast, small, fast" cell.
-	4. Mark the process with the following flags:
-		**orange**: single cell trapped but not verified. 
-		**green**: verified to be a single cell after atleast 10mins.
-		**red**: air bubbles / re-purgeing. Set to purge and move to another microscope.
-	5. Once the cell is trapped, leave the stopcocks in closed positions.
+  1. Add the syringes to the other stopcock without creating bubbles and open the valves, this should equalise the pressure.
+  2. Let about 0.25mL of culture pass before trying to confine cells.  
+  3. Confine a "low contrast, small, fast" cell.
+  4. Mark the process with the following flags:
+  	**yellow**: single cell trapped but not verified. 
+  	**green**: verified to be a single cell after atleast 10mins.
+  	**red**: air bubbles / required re-purgeing. Set to purge and move to another microscope.
+  5. Once the cell is trapped, leave the stopcocks in closed positions.
 
 5. **Start acquisition of cluster A**
 
