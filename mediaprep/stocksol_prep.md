@@ -7,10 +7,12 @@ references: https://doi.org/10.1016/B978-0-12-397945-2.00019-6
 
 # Preparation of Stock solutions
 
-## Overview
++ Overview:
 
-1. Preparation of salt solution (~1L)
-2. Preparation of phosphate solution  (~1L)
+	1. Preparation of salt solution (~1L)
+
+	2. Preparation of phosphate solution  (~1L)
+
 
 ## Requirements
 
@@ -39,7 +41,11 @@ references: https://doi.org/10.1016/B978-0-12-397945-2.00019-6
 
 Note: The first stocks were made using borrowed reagents from "unknown" sources.
 
-## 1. Preparation of salt solution (~1L)
+
+
+## Steps
+
+###  1. Preparation of salt solution (~1L)
 
 1. Add the following compounds to a beaker:
 
@@ -55,7 +61,7 @@ Note: The first stocks were made using borrowed reagents from "unknown" sources.
 5. Label ["LP", DATE, "Salt Solution Stock"] and send to autoclave (for **20 min,** at **121 ºC**).
 6. Store at **4 ºC** (cold room).
 
-## 2. Preparation of phosphate solution  (~1L)
+###  2. Preparation of phosphate solution  (~1L)
 
 1. Add the following compounds to a beaker:
 

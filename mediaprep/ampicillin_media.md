@@ -14,26 +14,23 @@ references:
 
 ## Introduction
 
-This protocol describes the steps to make TAP+P (additional phosphate) media by combining reagents and other stock solutions. This protocol produces 1L of media. We begin with a test with the final concentration of $25 \mu g / mL $ of Ampicillin in TAP+P Liquid media.
++ This protocol describes the steps to make TAP+P (additional phosphate) media by combining reagents and other stock solutions. This protocol produces 1L of media. We begin with a test with the final concentration of $25 \mu g / mL $ of Ampicillin in TAP+P Liquid media.
 
-Recommended concentrations (check yaml frontmatter for full-references):
++ Recommended concentrations (check yaml frontmatter for full-references):
 
-- Chlamydomonas sourcebook: $25-100 \mu g/mL$ : on agar plates for clearance of contaminated cultures.
-- BioTechniques: $100 \mu g/mL$ Ampicillin + $50 \mu g / mL$ Cefotaxime : on agar plates
+	- Chlamydomonas sourcebook: $25-100 \mu g/mL$ : on agar plates for clearance of contaminated cultures.
 
-## Overview
+	- BioTechniques: $100 \mu g/mL$ Ampicillin + $50 \mu g / mL$ Cefotaxime : on agar plates
 
-1. Measurement of relevant concentration.
-2. Mixing into autoclaved TAP+P or minimal media.
 
 ## Requirements
 
 1. Media stock (TAP+P/Minimal/etc) and stored at 4ºC.
 2. Ampicillin sodium salt (Sigma Aldrich A9518-5G)
 3. Precision weight balance scale
-4. LAminar flow hood.
+4. Laminar flow hood.
 
-## Procedure
+## Steps
 
 1. **Measurement of relevant concentration:**
 	For a final concentration of $25 \mu g / mL $ in $1L$ of media, isolate $25mg$ on a precision balance. 

@@ -23,7 +23,9 @@ https://agargel.com.br/en/agar-agar/]
 6. Microwave
 7. Laminar flow / flame (sterile conditions)
 
-## 1. Preparation of agar solution
+## Steps
+
+### 1. Preparation of agar solution
 
 1. Add  **1.5 %** (w/v) (**4.50gm**) of agar to **~ 300 mL** of TAP (weight the agar powder on a beaker and then add the TAP+P liquid media).
 2. Mix with a magnetic stirrer with no heating. The dissolution will be done *a posteriori*, before filling the Petri plates.
@@ -31,7 +33,7 @@ https://agargel.com.br/en/agar-agar/]
 4. Label ["LP", DATE, AgarStock-STOCKNUMBER] on a paper label and send to autoclave (for **20 min**, at **121 ºC**), **with no water bath**.
 5. Collect from the autoclave and store at room temperature.
 
-## 2. Petri plates preparation
+### 2. Petri plates preparation
 
 1. Melt small volumes (**~ 300 mL**) of agar containing TAP+P in the microwave (around **4 min** in total). Very importantly, the bottle lid must be twisted, leaving the bottle unsealed (but not open), otherwise it may explode.
 
@@ -45,10 +47,9 @@ https://agargel.com.br/en/agar-agar/]
 
 6. Do not dispose the plates on top of each other, to reduce condensation effects. Leave them at room temperature. After some time, once the agar is solid, they can be stored (see Fig. 1 below).
 
+###  3. Storage of plates
 
-## 3. Storage of plates
-
-How to fix condensation?
+1. Store the plates at 4ºC in specially ensured sterile conditions.
 
 ## Additional information
 
