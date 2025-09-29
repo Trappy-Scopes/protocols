@@ -18,10 +18,43 @@
 | [Curvature-Guided Motility of Microalgae in Geometric Confinement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.068002#supplemental) | $100 \mu m$          | [Supplementary movie](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.120.068002/Ostapenko_2017_Supplementary_Movie.mp4) | ![image-20250929135950741](assets/image-20250929135950741.png) |
 | [Interplay of surface interaction and magnetic torque in single-cell motion of magnetotactic bacteria in microfluidic confinement](https://elifesciences.org/articles/71527) | $90 \mu m$           | [Video2](https://elifesciences.org/download/aHR0cHM6Ly9zdGF0aWMtbW92aWUtdXNhLmdsZW5jb2Vzb2Z0d2FyZS5jb20vbXA0LzEwLjc1NTQvMjA1LzY1OTkwYTE4Yzk5ZDg0OWRkZTNlZjk4YWM2ZTdlZGI4OTRmZTc4ODQvZWxpZmUtNzE1MjctdmlkZW8yLm1wNA--/elife-71527-video2.mp4?_hash=G1S9JeV%2BDJeKDNT7j5qOi0pN205q3mZlJOIaLH7oofM%3D) | ![image-20250929141115761](assets/image-20250929141115761.png) |
 
+## Cell follow videos to illustrate interactions with dust
+
+| Description      | Exemplar videos                                              |
+| ---------------- | ------------------------------------------------------------ |
+| Raw (bf680a3e4d) | [video link](assets/bf680a3e4d_2025_08_27__11_13_14__1756289594291549015__split_1_simplesq.mp4) |
+| BGS (7a3d98da14) | [video link](assets/vlc-record-2025-09-29-15h34m34s-7a3d98da14_2025_08_21__22_03_46__1755810226372969833__split_66__15006frames.mp4-.mp4) |
+| BGS (7a3d98da14) | [video link](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/vlc-record-2025-09-29-15h37m02s-7a3d98da14_2025_08_21__22_03_46__1755810226372969833__split_66__15006frames.mp4-.mp4) |
 
 
 
+## Dirty traps under Trappy-Scopes M1
+
++ **Microscopy**: Imaged on M1 with standard red light conditions (0.45, 0, 0) with no fluid.
++ Fabrication: fresh devices made with:
+	1. Circular Scotch Tape
+	2. Clean glass stored for a long time.
+	3. Only PDMS washed with isopropyl alcohol
+
+EID: 7c55319736
+
+| Device   | Inside the trap                              | Outside                                      |
+| -------- | -------------------------------------------- | -------------------------------------------- |
+| Device 1 | ![dirty1](assets/dirty1.png)                 | ![dirty1_chamber](assets/dirty1_chamber.png) |
+| Device 2 | ![dirty2_chamber](assets/dirty2_chamber.png) | ![dirty2](assets/dirty2.png)                 |
+| Device 3 | ![dirty3_chamber](assets/dirty3_chamber.png) | ![dirty3](assets/dirty3.png)                 |
 
 
+
+## Effect of tap on dust
+
++ EID: a4d0ba9e78
++ **Conditions:** Imaged on VWR with 4X magnification and set light conditions.
++ **Fabrication:** Fresh devices from a single fabrication round.
+
+| With tape                                            | Without tape                                                 |
+| ---------------------------------------------------- | ------------------------------------------------------------ |
+| ![dev3_tape_water_in](assets/dev3_tape_water_in.png) | ![dev1_notape_nowater_in](assets/dev1_notape_nowater_in.png) |
+| ![dev4_tape_water_in](assets/dev4_tape_water_in.png) | ![dev2_notape_water_in](assets/dev2_notape_water_in.png)     |
 
 Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prresearch/supplemental/10.1103/PhysRevResearch.4.L022029/Algae_Escapes.mp4)
