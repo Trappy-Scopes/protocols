@@ -38,23 +38,40 @@
 
 EID: 7c55319736
 
-| Device   | Inside the trap                              | Outside                                      |
-| -------- | -------------------------------------------- | -------------------------------------------- |
-| Device 1 | ![dirty1](assets/dirty1.png)                 | ![dirty1_chamber](assets/dirty1_chamber.png) |
-| Device 2 | ![dirty2_chamber](assets/dirty2_chamber.png) | ![dirty2](assets/dirty2.png)                 |
-| Device 3 | ![dirty3_chamber](assets/dirty3_chamber.png) | ![dirty3](assets/dirty3.png)                 |
+| Device   | Inside the trap                              | Outside                      |
+| -------- | -------------------------------------------- | ---------------------------- |
+| Device 1 | ![dirty1_chamber](assets/dirty1_chamber.png) | ![dirty1](assets/dirty1.png) |
+| Device 2 | ![dirty2_chamber](assets/dirty2_chamber.png) | ![dirty2](assets/dirty2.png) |
+| Device 3 | ![dirty3_chamber](assets/dirty3_chamber.png) | ![dirty3](assets/dirty3.png) |
 
 
 
 ## Effect of tap on dust
 
 + EID: a4d0ba9e78
-+ **Conditions:** Imaged on VWR with 4X magnification and set light conditions.
++ **Conditions:** Imaged on VWR with 4X magnification and set light conditions with filtered ($0.22\mu m$) deionised water.
 + **Fabrication:** Fresh devices from a single fabrication round.
 
 | With tape                                            | Without tape                                                 |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
 | ![dev3_tape_water_in](assets/dev3_tape_water_in.png) | ![dev1_notape_nowater_in](assets/dev1_notape_nowater_in.png) |
 | ![dev4_tape_water_in](assets/dev4_tape_water_in.png) | ![dev2_notape_water_in](assets/dev2_notape_water_in.png)     |
+
+## Comparision between imaging conditions of M1 and VWR
+
+| M1                                                           | VWR                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![port1](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/port1.png) | ![port1](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/port1-9170924.png) |
+| ![chamber1](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber1.png) | ![chamber3](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber3-9170919.png) |
+| ![chamber3](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber3.png) | ![chamber4](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber4-9170913.png) |
+| ![chamber4](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber4.png) | ![chamber5](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber5-9170904.png) |
+| ![chamber5](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber5.png) | ![chamber6](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber6-9170893.png) |
+| ![chamber6](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber6.png) | ![chamber7](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber7-9170888.png) |
+| ![chamber7](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber7.png) | ![chamber8](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber8-9170880.png) |
+| ![chamber8](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber8.png) | ![chamber9](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber9-9170875.png) |
+| ![chamber9](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber9.png) | ![chamber10](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/chamber10.png) |
+| ![port2](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/port2.png) | ![port2](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/port2-9170860.png) |
+
+
 
 Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prresearch/supplemental/10.1103/PhysRevResearch.4.L022029/Algae_Escapes.mp4)
