@@ -28,13 +28,14 @@
 
 
 
-## Dirty traps under Trappy-Scopes M1
+## Comparing trap area vs the outside
 
-+ **Microscopy**: Imaged on M1 with standard red light conditions (0.45, 0, 0) with no fluid.
-+ Fabrication: fresh devices made with:
++ **Microscopy**: Imaged on M1 with standard red light conditions (0.45, 0, 0) and no fluid.
++ **Fabrication**: fresh devices made with:
 	1. Circular Scotch Tape
 	2. Clean glass stored for a long time.
 	3. Only PDMS washed with isopropyl alcohol
++ **Conclusion:** Trap areas, which are covered with tape while bonding, are generally cleaner than the outside.
 
 EID: 7c55319736
 
@@ -46,11 +47,12 @@ EID: 7c55319736
 
 
 
-## Effect of tap on dust
+## Effect of scotch tape on dust
 
 + EID: a4d0ba9e78
 + **Conditions:** Imaged on VWR with 4X magnification and set light conditions with filtered ($0.22\mu m$) deionised water.
 + **Fabrication:** Fresh devices from a single fabrication round.
++ **Conclusion:** Using tape doesn't make a significant difference w.r.t to visible dust.
 
 | With tape                                            | Without tape                                                 |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
@@ -59,18 +61,41 @@ EID: 7c55319736
 
 ## Comparision between imaging conditions of M1 and VWR
 
-| M1                               | VWR                                      |
-| -------------------------------- | ---------------------------------------- |
-| ![port1](assets/port1.png)       | ![port1](assets/port1-9170924.png)       |
-| ![chamber1](assets/chamber1.png) | ![chamber3](assets/chamber3-9170919.png) |
-| ![chamber3](assets/chamber3.png) | ![chamber4](assets/chamber4-9170913.png) |
-| ![chamber4](assets/chamber4.png) | ![chamber5](assets/chamber5-9170904.png) |
-| ![chamber5](assets/chamber5.png) | ![chamber6](assets/chamber6-9170893.png) |
-| ![chamber6](assets/chamber6.png) | ![chamber7](assets/chamber7-9170888.png) |
-| ![chamber7](assets/chamber7.png) | ![chamber8](assets/chamber8-9170880.png) |
-| ![chamber8](assets/chamber8.png) | ![chamber9](assets/chamber9-9170875.png) |
-| ![chamber9](assets/chamber9.png) | ![chamber10](assets/chamber10.png)       |
-| ![port2](assets/port2.png)       | ![port2](assets/port2-9170860.png)       |
+<img src="https://ibidi.com/864-large_default/-slide-spheroid-perfusion.jpg" style="zoom:50%;" />
+
++ **Aim**: To confirm dust in a seal packed industry standard device. Also to figure out if  we also fociusing on dust outside the glass (glass surface facing the PDMS)?
+
++ **Note**: I couldn't focus on VWR with the device upright and couldn't observe any dust in the limit where I could focus. I had to focus the chambers from the other side, which changed the focus by a few millimeters and is likely focusing on the outside of the device. Hence, FOV was refocused for chambers on both microscopes along the optical axis.
+
++ **Observations**: Only 4/11 images have strong features that are similar (these chambers are maked with an asterist sign). In some of them (and possibly others), the dust appears to have moved around. Images from VWR also appear to have parallel lines (probably scratches). Both these observations strongly indicate that on VWR the focus is at the bottom (where dust is likely to move on the outside.)
+
++ **Conclusion**: Dust on the outside appear to have been moving. Also it is likely that the focal plane is on the outside of the device for the case of the VWR.  This suggests that some of the dust we observe is on the outside for the case of M1 . Dept of field for M1 (and all trappyscopes; and other low magnification and NA systems) is large ($\approx\order{100\mu m}$-$\approx\order{1000\mu m}$). This means that  low NA and low magnification systems (Trappy-Scopes and others; refer to big chambers in the literature review comparison) also image spots that are actually dust speaks on the outside.
+
+	> ## Estimatation of DOF (Dept of field) of the microscope
+	>
+	> The depth of field of a microscope can be approximated as:
+	> $$
+	> dof \approx \frac{n\lambda}{NA^2}
+	> $$
+	> ![image-20250930114819985](assets/image-20250930114819985.png)
+	>
+	> Since the dept of field is large, it is evident that we might also catch signals from the outside of the glass slide (the glass slide is $1mm$ in thickness). Dept of focus however — is a different concept and is difficult to approximate. Depth of focus determines: what is properly is in focus (i.e. sharp) and would determine which features are sharp and which features are blurred.
+	>
+
++ EID: 9b400bd83c and 092aae6974
+
+| Chamber id | M1                               | VWR                                      |
+| ---------- | -------------------------------- | ---------------------------------------- |
+| Port 1*    | ![port1](assets/port1.png)       | ![port1](assets/port1-9170924.png)       |
+| 1          | ![chamber1](assets/chamber1.png) | ![chamber3](assets/chamber3-9170919.png) |
+| 2*         | ![chamber3](assets/chamber3.png) | ![chamber4](assets/chamber4-9170913.png) |
+| 3          | ![chamber4](assets/chamber4.png) | ![chamber5](assets/chamber5-9170904.png) |
+| 4          | ![chamber5](assets/chamber5.png) | ![chamber6](assets/chamber6-9170893.png) |
+| 5*         | ![chamber6](assets/chamber6.png) | ![chamber7](assets/chamber7-9170888.png) |
+| 6          | ![chamber7](assets/chamber7.png) | ![chamber8](assets/chamber8-9170880.png) |
+| 7          | ![chamber8](assets/chamber8.png) | ![chamber9](assets/chamber9-9170875.png) |
+| 8          | ![chamber9](assets/chamber9.png) | ![chamber10](assets/chamber10.png)       |
+| Port 2*    | ![port2](assets/port2.png)       | ![port2](assets/port2-9170860.png)       |
 
 
 
