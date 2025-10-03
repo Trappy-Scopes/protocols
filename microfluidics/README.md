@@ -125,10 +125,33 @@ Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prre
 + **Aim:** To compare imaging conditions on the focal plane of a moving cell.
 + **Microfluidics:** Same as the above set. Cleaned on both sides. There is no moving cell in Chamber 2 because the trap was broken.
 + EIDs: 59bcc0790a and 5d5b5eea4c
++ **Conclusion:** The number of high contrast featutes in M1 is much higher and some of them correspond to blurry low contrast features in VWR. This suggests that the dept of field and depth of focus is larger for M1, than VWR.
 
-|                                 |                                                          |                                          |
-| ------------------------------- | -------------------------------------------------------- | ---------------------------------------- |
-| 1                               | ![calib_image](assets/calib_image.png)                   | ![trap1](assets/trap1-9498634.png)       |
-| 2<br />(The images are rotated) | ![trap2_leaked_justTAP](assets/trap2_leaked_justTAP.png) | ![trap2_broken](assets/trap2_broken.png) |
-| 3                               | ![trap3_trapped](assets/trap3_trapped.png)               | ![trap3](assets/trap3.png)               |
+| chamber                        | M1                                                       | VWR                                                          |
+| ------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
+| 1                              | ![calib_image](assets/calib_image.png)                   | <img src="assets/trap1-9498634.png" alt="trap1" style="transform: scaleX(-1)rotate(180deg);"/> |
+| <br />(The images are rotated) | ![trap2_leaked_justTAP](assets/trap2_leaked_justTAP.png) | <img src="assets/trap2_broken.png" alt="trap2_broken" style="transform: scaleX(-1)rotate(180deg);" /> |
+| 3                              | ![trap3_trapped](assets/trap3_trapped.png)               | ![trap3](assets/trap3.png)                                   |
+
+
+
+## Trying to locate the dust features
+
++ Chamber 2 was broken and chamber 3 video is corrupted. So only one to compare
++ We look at 3 different planes (The plane right where cell starts to come into focus on the PDMS, the cell plane, and the plane below the cell focus)
++ **Conclusions:** It seems that some features are either embedded on the PDMS ceiling or right above the ceiling in the PDMS. Some features were embedded deep inside the PDMS. 
+
+|      | Upper plane                                                  | Cell plane                                                   | Lower plane                                                  |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | ![image-20251003151655229](assets/image-20251003151655229.png) | ![image-20251003151658611](microfluidics/assets/image-20251003151658611.png) | ![image-20251003152011649](assets/image-20251003152011649.png) |
+
+Video: [Focal plane scan - chamber 1](assets/trap1_upwardscan.mp4)
+
+
+
+
+
+
+
+
 
