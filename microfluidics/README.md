@@ -22,9 +22,17 @@
 
 | Description      | Exemplar videos                                              |
 | ---------------- | ------------------------------------------------------------ |
+| BGS (7a3d98da14) | [video link](assets/long_clear_interactions_7a3d98da14_2025_08_21__22_03_46__1755810226372969833__split_66__15006frames.mp4-.mp4) |
+
+
+
+## Some other videos
+
+| Description      | Exemplar videos                                              |
+| ---------------- | ------------------------------------------------------------ |
 | Raw (bf680a3e4d) | [video link](assets/bf680a3e4d_2025_08_27__11_13_14__1756289594291549015__split_1_simplesq.mp4) |
 | BGS (7a3d98da14) | [video link](assets/vlc-record-2025-09-29-15h34m34s-7a3d98da14_2025_08_21__22_03_46__1755810226372969833__split_66__15006frames.mp4-.mp4) |
-| BGS (7a3d98da14) | [video link](/Users/byatharth/code/Trappy-Scopes/protocols/microfluidics/assets/vlc-record-2025-09-29-15h37m02s-7a3d98da14_2025_08_21__22_03_46__1755810226372969833__split_66__15006frames.mp4-.mp4) |
+| BGS (7a3d98da14) | [video link](assets/vlc-record-2025-09-29-15h37m02s-7a3d98da14_2025_08_21__22_03_46__1755810226372969833__split_66__15006frames.mp4-.mp4) |
 
 
 
