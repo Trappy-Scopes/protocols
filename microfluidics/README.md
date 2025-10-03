@@ -18,7 +18,13 @@
 | [Curvature-Guided Motility of Microalgae in Geometric Confinement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.068002#supplemental) | $100 \mu m$          | [Supplementary movie](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.120.068002/Ostapenko_2017_Supplementary_Movie.mp4) | ![image-20250929135950741](assets/image-20250929135950741.png) |
 | [Interplay of surface interaction and magnetic torque in single-cell motion of magnetotactic bacteria in microfluidic confinement](https://elifesciences.org/articles/71527) | $90 \mu m$           | [Video2](https://elifesciences.org/download/aHR0cHM6Ly9zdGF0aWMtbW92aWUtdXNhLmdsZW5jb2Vzb2Z0d2FyZS5jb20vbXA0LzEwLjc1NTQvMjA1LzY1OTkwYTE4Yzk5ZDg0OWRkZTNlZjk4YWM2ZTdlZGI4OTRmZTc4ODQvZWxpZmUtNzE1MjctdmlkZW8yLm1wNA--/elife-71527-video2.mp4?_hash=G1S9JeV%2BDJeKDNT7j5qOi0pN205q3mZlJOIaLH7oofM%3D) | ![image-20250929141115761](assets/image-20250929141115761.png) |
 
-## Cell follow videos to illustrate interactions with dust
+
+
+## What's with the dust?
+
+
+
+### Cell follow videos to illustrate interactions with dust
 
 | Description      | Exemplar videos                                              |
 | ---------------- | ------------------------------------------------------------ |
@@ -26,7 +32,7 @@
 
 
 
-## Some other videos
+### Some other videos
 
 | Description      | Exemplar videos                                              |
 | ---------------- | ------------------------------------------------------------ |
@@ -36,7 +42,7 @@
 
 
 
-## Comparing trap area vs the outside
+### Comparing trap area vs the outside
 
 + **Microscopy**: Imaged on M1 with standard red light conditions (0.45, 0, 0) and no fluid.
 + **Fabrication**: fresh devices made with:
@@ -55,7 +61,7 @@ EID: 7c55319736
 
 
 
-## Effect of scotch tape on dust
+### Effect of scotch tape on dust
 
 + EID: a4d0ba9e78
 + **Conditions:** Imaged on VWR with 4X magnification and set light conditions with filtered ($0.22\mu m$) deionised water.
@@ -67,7 +73,7 @@ EID: 7c55319736
 | ![dev3_tape_water_in](assets/dev3_tape_water_in.png) | ![dev1_notape_nowater_in](assets/dev1_notape_nowater_in.png) |
 | ![dev4_tape_water_in](assets/dev4_tape_water_in.png) | ![dev2_notape_water_in](assets/dev2_notape_water_in.png)     |
 
-## Comparision between imaging conditions of M1 and VWR
+### Comparision between imaging conditions of M1 and VWR
 
 <img src="https://ibidi.com/864-large_default/-slide-spheroid-perfusion.jpg" style="zoom:50%;" />
 
@@ -79,7 +85,7 @@ EID: 7c55319736
 
 + **Conclusion**: Dust on the outside appear to have been moving. Also it is likely that the focal plane is on the outside of the device for the case of the VWR.  This suggests that some of the dust we observe is on the outside for the case of M1 . Dept of field for M1 (and all trappyscopes; and other low magnification and NA systems) is large ($\approx\order{100\mu m}$-$\approx\order{1000\mu m}$). This means that  low NA and low magnification systems (Trappy-Scopes and others; refer to big chambers in the literature review comparison) also image spots that are actually dust speaks on the outside.
 
-	> ## Estimatation of DOF (Dept of field) of the microscope
+	> ### Estimatation of DOF (Dept of field) of the microscope
 	>
 	> The depth of field of a microscope can be approximated as:
 	> $$
@@ -128,7 +134,7 @@ Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prre
 
 
 
-## Focus on the cell and take an image
+### Focus on the cell and take an image
 
 + **Aim:** To compare imaging conditions on the focal plane of a moving cell.
 + **Microfluidics:** Same as the above set. Cleaned on both sides. There is no moving cell in Chamber 2 because the trap was broken.
@@ -143,7 +149,7 @@ Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prre
 
 
 
-## Trying to locate the dust features
+### Trying to locate the dust features
 
 + Chamber 2 was broken and chamber 3 video is corrupted. So only one to compare
 + We look at 3 different planes (The plane right where cell starts to come into focus on the PDMS, the cell plane, and the plane below the cell focus)
@@ -151,7 +157,7 @@ Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prre
 
 |      | Upper plane                                                  | Cell plane                                                   | Lower plane                                                  |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | ![image-20251003151655229](assets/image-20251003151655229.png) | ![image-20251003151658611](microfluidics/assets/image-20251003151658611.png) | ![image-20251003152011649](assets/image-20251003152011649.png) |
+| 1    | ![image-20251003151655229](assets/image-20251003151655229.png) | ![image-20251003151658611](assets/image-20251003151658611.png) | ![image-20251003152011649](assets/image-20251003152011649.png) |
 
 Video: [Focal plane scan - chamber 1](assets/trap1_upwardscan.mp4)
 
