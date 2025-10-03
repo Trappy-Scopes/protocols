@@ -99,4 +99,20 @@ EID: 7c55319736
 
 
 
+### Is the dust on the bottom surface of the glass lside
+
++ **Test:** Compare images before and after cleaning both the surfaces.
++ **Imaging conditions**: Imaged on M1 without any fluid.
++ **Cleaning procedure:** Spray bottom with a stream of 96% Ethanol and clean with a compressed air canister.
++ EID: 28ff6ac53e
+
+| Chamber | No cleaning                                                  | Glass surface cleaned                                        | PDMS surface cleaned                                         |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1       | ![chamber1_inside_noclean](assets/chamber1_inside_noclean.png) | ![chamber1_inside_glassclean](assets/chamber1_inside_glassclean.png) | ![chamber1_inside_pdmsclean](assets/chamber1_inside_pdmsclean.png) |
+| 2       | ![chamber2_inside_noclean](assets/chamber2_inside_noclean.png) | ![chamber2_inside_glassclean](assets/chamber2_inside_glassclean.png) | ![chamber2_inside_pdmsclean](assets/chamber2_inside_pdmsclean.png) |
+| 3       | ![chamber3_inside_noclean](assets/chamber3_inside_noclean.png) | ![chamber3_inside_glassclean](assets/chamber3_inside_glassclean.png) | ![chamber3_inside_pdmsclean](assets/chamber3_inside_pdmsclean.png) |
+| 1 outer | ![chamber1_slightlyleft_noclean](assets/chamber1_slightlyleft_noclean.png) | ![chamber1_slightlyleft_glassclean](assets/chamber1_slightlyleft_glassclean.png) | ![chamber1_slightlyleft_pdmsclean](assets/chamber1_slightlyleft_pdmsclean.png) |
+| 2 outer | ![chamber2_bottom_noclean](assets/chamber2_bottom_noclean.png) | ![chamber2_bottom_glassclean](assets/chamber2_bottom_glassclean.png) | ![chamber2_bottom_pdmsclean](assets/chamber2_bottom_pdmsclean.png) |
+| 3 outer | ![chamber3_left_noclean](assets/chamber3_left_noclean.png)   | ![chamber3_left_glassclean](assets/chamber3_left_glassclean.png) | ![chamber3_left_pdmsclean](assets/chamber3_left_pdmsclean.png) |
+
 Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prresearch/supplemental/10.1103/PhysRevResearch.4.L022029/Algae_Escapes.mp4)
