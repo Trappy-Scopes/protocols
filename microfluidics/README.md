@@ -104,15 +104,31 @@ EID: 7c55319736
 + **Test:** Compare images before and after cleaning both the surfaces.
 + **Imaging conditions**: Imaged on M1 without any fluid.
 + **Cleaning procedure:** Spray bottom with a stream of 96% Ethanol and clean with a compressed air canister.
++ **Conclusion:** 1 big smuged spot was removed in 2/6 cases from the surface. Otherwise the spots are all the same. That means that most of the spots are in the PDMS or in the trap.
 + EID: 28ff6ac53e
 
-| Chamber | No cleaning                                                  | Glass surface cleaned                                        | PDMS surface cleaned                                         |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1       | ![chamber1_inside_noclean](assets/chamber1_inside_noclean.png) | ![chamber1_inside_glassclean](assets/chamber1_inside_glassclean.png) | ![chamber1_inside_pdmsclean](assets/chamber1_inside_pdmsclean.png) |
-| 2       | ![chamber2_inside_noclean](assets/chamber2_inside_noclean.png) | ![chamber2_inside_glassclean](assets/chamber2_inside_glassclean.png) | ![chamber2_inside_pdmsclean](assets/chamber2_inside_pdmsclean.png) |
-| 3       | ![chamber3_inside_noclean](assets/chamber3_inside_noclean.png) | ![chamber3_inside_glassclean](assets/chamber3_inside_glassclean.png) | ![chamber3_inside_pdmsclean](assets/chamber3_inside_pdmsclean.png) |
-| 1 outer | ![chamber1_slightlyleft_noclean](assets/chamber1_slightlyleft_noclean.png) | ![chamber1_slightlyleft_glassclean](assets/chamber1_slightlyleft_glassclean.png) | ![chamber1_slightlyleft_pdmsclean](assets/chamber1_slightlyleft_pdmsclean.png) |
-| 2 outer | ![chamber2_bottom_noclean](assets/chamber2_bottom_noclean.png) | ![chamber2_bottom_glassclean](assets/chamber2_bottom_glassclean.png) | ![chamber2_bottom_pdmsclean](assets/chamber2_bottom_pdmsclean.png) |
-| 3 outer | ![chamber3_left_noclean](assets/chamber3_left_noclean.png)   | ![chamber3_left_glassclean](assets/chamber3_left_glassclean.png) | ![chamber3_left_pdmsclean](assets/chamber3_left_pdmsclean.png) |
+| Chamber                                  | No cleaning                                                  | Glass surface cleaned                                        | PDMS surface cleaned                                         |
+| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1                                        | ![chamber1_inside_noclean](assets/chamber1_inside_noclean.png) | ![chamber1_inside_glassclean](assets/chamber1_inside_glassclean.png) | ![chamber1_inside_pdmsclean](assets/chamber1_inside_pdmsclean.png) |
+| 2                                        | ![chamber2_inside_noclean](assets/chamber2_inside_noclean.png) | ![chamber2_inside_glassclean](assets/chamber2_inside_glassclean.png) | ![chamber2_inside_pdmsclean](assets/chamber2_inside_pdmsclean.png) |
+| 3                                        | ![chamber3_inside_noclean](assets/chamber3_inside_noclean.png) | ![chamber3_inside_glassclean](assets/chamber3_inside_glassclean.png) | ![chamber3_inside_pdmsclean](assets/chamber3_inside_pdmsclean.png) |
+| 1 outer<br />(One braod spot was remove) | ![chamber1_slightlyleft_noclean](assets/chamber1_slightlyleft_noclean.png) | ![chamber1_slightlyleft_glassclean](assets/chamber1_slightlyleft_glassclean.png) | ![chamber1_slightlyleft_pdmsclean](assets/chamber1_slightlyleft_pdmsclean.png) |
+| 2 outer                                  | ![chamber2_bottom_noclean](assets/chamber2_bottom_noclean.png) | ![chamber2_bottom_glassclean](assets/chamber2_bottom_glassclean.png) | ![chamber2_bottom_pdmsclean](assets/chamber2_bottom_pdmsclean.png) |
+| 3 outer<br />(One big spot removed)      | ![chamber3_left_noclean](assets/chamber3_left_noclean.png)   | ![chamber3_left_glassclean](assets/chamber3_left_glassclean.png) | ![chamber3_left_pdmsclean](assets/chamber3_left_pdmsclean.png) |
 
 Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prresearch/supplemental/10.1103/PhysRevResearch.4.L022029/Algae_Escapes.mp4)
+
+
+
+## Focus on the cell and take an image
+
++ **Aim:** To compare imaging conditions on the focal plane of a moving cell.
++ **Microfluidics:** Same as the above set. Cleaned on both sides. There is no moving cell in Chamber 2 because the trap was broken.
++ EIDs: 59bcc0790a and 5d5b5eea4c
+
+|                                 |                                                          |                                          |
+| ------------------------------- | -------------------------------------------------------- | ---------------------------------------- |
+| 1                               | ![calib_image](assets/calib_image.png)                   | ![trap1](assets/trap1-9498634.png)       |
+| 2<br />(The images are rotated) | ![trap2_leaked_justTAP](assets/trap2_leaked_justTAP.png) | ![trap2_broken](assets/trap2_broken.png) |
+| 3                               | ![trap3_trapped](assets/trap3_trapped.png)               | ![trap3](assets/trap3.png)               |
+
