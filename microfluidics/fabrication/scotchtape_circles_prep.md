@@ -1,23 +1,25 @@
 ---
 author: Yatharth Bhasin
 edited: null
-date: (2024, 05, 09)
+date: (2025, 08, 09)
 outcome: scotchtape_circles
 ---
 
 # Preparation of scotch tape circles for microfluidics
 
-
++ The scotch tape circles cover the trap and the walls during the bionding stage. This prevents bonding of the walls to the glass,
 
 ## Requirements
 
 1. 3M™ Scotch tape
-2. Clear aceetate sheet
+2. Clear aceetate sheet (translucent with matte finish)
 
 ## Steps
 
-1. Mix concentrated $H_{2}SO_{4}$ and 30 %w/w $H_2O_2$ in a 3:1 ratio respectively. Always add $H_{2}SO_{4}$​ first, never the opposite or it might cause an explosion. 
-	**Safety note:** The reasultant reaction is extremely exothermic and vigorous, which can cause serious injuries. Mix the solution in a glass beaker, which is placed inside a wider glass vessel to prevent any spillage outside.
-2. Wait for a few minutes (~10) for the reaction vessel to calm and cool down. Then cover the rreaction vessel with aluminum foil to trap in dangerous fumes. Make sure that the solution does not react with the Aluminium foil as it is corrosoive to Alumiunum.
-	**Safety note**: Avoid inhaling the fumes as they are corrosive to the lungs. Use special gloves to handle the solution vessel and the covered aluminium foil. The reaaction vessel also becomes very hot during the reaction and should be handled carefully.
+1. Take a clean piece of **acetate sheet**. Clean it further with **isopropyl alcohol** and **blow dry** with **nitrogen**.
+2. Apply **parallel strips of Scotch tape** without any creasing. Cut the tape at the corners to prevent overlapping or sticking.
+3. Place the sheet on a **cutting plotter (GCC RX II Series)** and cut **consecutive 9.5 mm diameter circles** with just enough pressure to cut through the tape but not the acetate sheet.
+4. Store the sheet **without removing the excess tape**. The excess can be removed during subsequent use to prevent dust accumulation.
+5. **To apply:** Use **flat tweezers** to gently remove a circular piece from the acetate sheet (peel the excess tape first, if needed).
+6. Apply the circle to the **PDMS device** using another pair of tweezers. Ensure good contact and that the **walls are completely covered**.
 
