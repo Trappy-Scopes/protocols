@@ -141,11 +141,11 @@ Look at the halo on the walls: [Algae_Escapes.mp4](https://journals.aps.org/prre
 + EIDs: 59bcc0790a and 5d5b5eea4c
 + **Conclusion:** The number of high contrast featutes in M1 is much higher and some of them correspond to blurry low contrast features in VWR. This suggests that the dept of field and depth of focus is larger for M1, than VWR.
 
-| chamber                        | M1                                                       | VWR                                                          |
-| ------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
-| 1                              | ![calib_image](assets/calib_image.png)                   | <img src="assets/trap1-9498634.png" alt="trap1" style="transform: scaleX(-1)rotate(180deg);"/> |
-| <br />(The images are rotated) | ![trap2_leaked_justTAP](assets/trap2_leaked_justTAP.png) | <img src="assets/trap2_broken.png" alt="trap2_broken" style="transform: scaleX(-1)rotate(180deg);" /> |
-| 3                              | ![trap3_trapped](assets/trap3_trapped.png)               | ![trap3](assets/trap3.png)                                   |
+| chamber | M1                                                       | VWR                                                          |
+| ------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| 1       | ![calib_image](assets/calib_image.png)                   | <img src="assets/trap1-9498634.png" alt="trap1" style="transform: scaleX(-1)rotate(180deg);"/> |
+| 2       | ![trap2_leaked_justTAP](assets/trap2_leaked_justTAP.png) | <img src="assets/trap2_broken.png" alt="trap2_broken" style="transform: scaleX(-1)rotate(180deg);" /> |
+| 3       | ![trap3_trapped](assets/trap3_trapped.png)               | ![trap3](assets/trap3.png)                                   |
 
 
 
