@@ -8,35 +8,28 @@ Preferably, this procedure should be done after an hour of the beginning of the 
 ## Requirements
 
 1. Cell culture of CR
-2. White vials with lids
-3. Fresh media (Blue bottles)
-4. (optional) Ballast for centrifuge
-5. Centrifuge
-6. Enclosure with strong light on the top
+2. Opaque conical tubes for centrifuge
+3. Shott bottle for dilluted culture
+4. Fresh media
+5. (optional) Ballast for centrifuge
+6. Centrifuge
+7. Enclosure with strong light on the top/incubator
 
 
 
-## Procedure
+## Steps
 
-0. Select cultures that are in the log growth phase: 6th day or 10^6 cells per mL.
+0. Select cultures that are in the log growth phase and check them under the microscope to characterise motility. A small-medium fraction of cells mst be motile and also there should be presence of a lot of small cells. Also check if the cultures are clean (do not show signs of contamination).
 
-	```python
-	scope.lit.setVs(3, 3, 0)
-	```
+1. Transfer the cultures to an opaque concial centrifuge tube with proper aseptic standards.
 
-1. Place the cell culture in the centrifuge and spin at 500rcf for 10mins at 25ºC.
+2. Place the cell culture in the centrifuge and spin at **200rcf (g)** for **10 minutes**. These number change from one strain to the other.
 
+3. After the centrifugation finishes, carefully replace the cap with parafilm and put it in the incubator with a strong light source on the top.
 
-	```python
-	exp.delay("Centrifugation", 10*60)
-	scope.beacon.pulse(3)
-	```
-
-2. After the centrifugation finishes, carefully bring the tubes to the bench and replace the caps with parafilm.
-
-3. Place the culture tubes in an enclosure with strong white light for 30 mins.
-
-4. After this is done, isolate 35% of the cell culture into broad lid vials (Vss). The following table can be used to get the correct volume/densities:
+4. Incubate for **3mins **for **light separation**. During this time good swimmers swim to the top.
+	
+5. After this is done, isolate 35% of the cell culture into broad lid vials (Vss). The following table can be used to get the correct volume/densities:
 
 	| Volume (mL) | 35% Volume (mL) | 40% Volume (mL) |
 	| ----------- | --------------- | --------------- |
@@ -56,8 +49,14 @@ Preferably, this procedure should be done after an hour of the beginning of the 
 	| 19          | 6.65            | 7.6             |
 	| 20          | 7.0             | 8.0             |
 
-5. The density of these cultures should be around 10^5 cells per mL. The culture can be further diluted by addition of fresh media to about 5X10^5 cells.
+6. The density of these cultures should be around $10^5$ cells per mL. The culture can be further diluted by addition of fresh media to about $\approx 10^{5}-10^{4}$ cells. These cell densities are too low to count.
 
 	> You can use the formula: C1V1 = C2V2 and Vadd = V2 - Vss
 
-6. The culture is ready for use. Its done.
+7. The culture is ready for use. Shade the shott bottle with Aluminium foil or a proper system and store in a dark place for dark acclimation.
+
+
+
+## Additional Information
+
+Calculation of time and 
