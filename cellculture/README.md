@@ -56,9 +56,9 @@ Cell size can be measured using microscopy — by segmenting the cells and count
 
 ### Polydispersity in processed cultures
 
- ! ![YB_CC125_Sync1sep_1000_04_plot](/Users/byatharth/code/Trappy-Scopes/protocols/microscopes/assets/YB_CC125_Sync1sep_1000_04_plot.png)
+ 
 
-![YB_CC125_S3sep_1000_06_plot](/Users/byatharth/code/Trappy-Scopes/protocols/microscopes/assets/YB_CC125_S3sep_1000_06_plot.png)
+![YB_CC125_S3sep_1000_06_plot](assets/YB_CC125_S3sep_1000_06_plot.png)
 
 
 
@@ -66,7 +66,7 @@ Cell size can be measured using microscopy — by segmenting the cells and count
 
 The 2nd culture from 6th of October, which was less motile, did not separate well. The raw cultures show better polydispersity than light separated cultures.
 
-![YB_CC125_Sync3_1000_02_plot](/Users/byatharth/code/Trappy-Scopes/protocols/microscopes/assets/YB_CC125_Sync3_1000_02_plot.png)
+![YB_CC125_Sync3_1000_02_plot](assets/YB_CC125_Sync3_1000_02_plot.png)
 
  ![YB_CC125_S2sep_1000_05_plot.pdf](assets/YB_CC125_S2sep_1000_05_plot.pdf) 
 

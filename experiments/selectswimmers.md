@@ -19,44 +19,25 @@ Preferably, this procedure should be done after an hour of the beginning of the 
 
 ## Steps
 
-0. Select cultures that are in the log growth phase and check them under the microscope to characterise motility. A small-medium fraction of cells mst be motile and also there should be presence of a lot of small cells. Also check if the cultures are clean (do not show signs of contamination).
+0. Select cultures that are in the log growth phase and check them under the microscope to characterise motility. A small-medium fraction of cells must be motile and also there should be presence of a lot of small cells. Also check if the cultures are clean — no small moving dots (bacteria), branched web structures (fungi), or a lot of lysed cells (indicator of infection). 
 
-1. Transfer the cultures to an opaque concial centrifuge tube with proper aseptic standards.
+1. Transfer the cultures to an opaque concial centrifuge tube with proper aseptic standards. Before closing the tube, add a layer of parafilm on top.
 
 2. Place the cell culture in the centrifuge and spin at **200rcf (g)** for **10 minutes**. These number change from one strain to the other.
 
-3. After the centrifugation finishes, carefully replace the cap with parafilm and put it in the incubator with a strong light source on the top.
+3. After the centrifugation finishes, put it in the incubator with a strong light source on the top.
 
-4. Incubate for **3mins **for **light separation**. During this time good swimmers swim to the top.
+4. Incubate for **2-3mins **for **light separation**. During this time good swimmers swim to the top.
 	
-5. After this is done, isolate 35% of the cell culture into broad lid vials (Vss). The following table can be used to get the correct volume/densities:
+5. After this is done, isolate $\approx 0.5-1.5mL$ based on density of the raw culture. It is okay to identify densities based on color.
 
-	| Volume (mL) | 35% Volume (mL) | 40% Volume (mL) |
-	| ----------- | --------------- | --------------- |
-	| 1           | 0.35            | 0.4             |
-	| 1.5         | 0.525           | 0.6             |
-	| 2           | 0.7             | 0.8             |
-	| 6           | 2.1             | 2.4             |
-	| 7           | 2.45            | 2.8             |
-	| 8           | 2.8             | 3.2             |
-	| 9           | 3.15            | 3.6             |
-	| 10          | 3.5             | 4.0             |
-	| 12          | 4.2             | 4.8             |
-	| 15          | 5.25            | 6.0             |
-	| 16          | 5.6             | 6.4             |
-	| 17          | 5.95            | 6.8             |
-	| 18          | 6.3             | 7.2             |
-	| 19          | 6.65            | 7.6             |
-	| 20          | 7.0             | 8.0             |
-
-6. The density of these cultures should be around $10^5$ cells per mL. The culture can be further diluted by addition of fresh media to about $\approx 10^{5}-10^{4}$ cells. These cell densities are too low to count.
-
-	> You can use the formula: C1V1 = C2V2 and Vadd = V2 - Vss
+	| Color                                        | Extract volume |
+	| -------------------------------------------- | -------------- |
+	| Dark green: $5\cdot10^5$ to $10^6$  cells/mL | 0.5mL          |
+	| Light green: $10^4$ to $10^5$ cells/mL       | 1mL            |
+	| Very light green: $\approx 10^4$ cells/mL    | 1.5mL          |
+	
+6. Extract the said volume, and dilute the culture to $20mL$ using fresh media.
 
 7. The culture is ready for use. Shade the shott bottle with Aluminium foil or a proper system and store in a dark place for dark acclimation.
 
-
-
-## Additional Information
-
-Calculation of time and 
