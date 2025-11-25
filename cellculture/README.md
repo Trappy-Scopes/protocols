@@ -18,6 +18,8 @@
 
 
 
+
+
 ## Synchronisation of cell cultures
 
 ### Introduction
@@ -54,3 +56,34 @@ Cell size can be measured using microscopy — by segmenting the cells and count
 
 ### Polydispersity in processed cultures
 
+ ! ![YB_CC125_Sync1sep_1000_04_plot](/Users/byatharth/code/Trappy-Scopes/protocols/microscopes/assets/YB_CC125_Sync1sep_1000_04_plot.png)
+
+![YB_CC125_S3sep_1000_06_plot](/Users/byatharth/code/Trappy-Scopes/protocols/microscopes/assets/YB_CC125_S3sep_1000_06_plot.png)
+
+
+
+### Examples of bad swimming cultures
+
+The 2nd culture from 6th of October, which was less motile, did not separate well. The raw cultures show better polydispersity than light separated cultures.
+
+![YB_CC125_Sync3_1000_02_plot](/Users/byatharth/code/Trappy-Scopes/protocols/microscopes/assets/YB_CC125_Sync3_1000_02_plot.png)
+
+ ![YB_CC125_S2sep_1000_05_plot.pdf](assets/YB_CC125_S2sep_1000_05_plot.pdf) 
+
+
+
+
+
+
+
+### Examples of cells which are not synchronised
+
+Dta from 25/09/2025 taken after the first passage. The measurement taken at 10:00 AM shows the presence of two different peaks which signify that there are two distinct size groups in the cultures.
+
+ ![YB_CC125_A_1000_00_plot.pdf](assets/YB_CC125_A_1000_00_plot.pdf)
+
+  ![YB_CC125_B_1000_01_plot.pdf](assets/YB_CC125_B_1000_01_plot.pdf)
+
+  ![YB_CC125_D_1000_02_plot.pdf](assets/YB_CC125_D_1000_02_plot.pdf)
+
+ 
