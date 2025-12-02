@@ -32,16 +32,6 @@ For a standard $50mL$ centrifuge conical tube (Sarstedt), and different culture 
 
 **Result 1**:  small bacth cultures, i.e. with volumes of $15-20 mL$, a centrifugation time of **10 minutes** is sufficent and a conservative estimate to ensure that all the cells (the smallest to the largest) settle down. The centrifugation acceleration of $200g$ has been checked to ensure that the cells (CC125 WT strain) can endure it.
 
-```
-1"10'
-1"35'
-1"55'
-2"17'
-2"40'
-3"20'
-3"45'
-```
-
 ### Separation by light exposure
 
 We rely on the phototactic nature of the cells to separate small fast swimmers from old large cells. Fast cells typically have a speeds of $80-200 \mu m/s$. Using the lower estimate of $v_{fast} \approx 80 \mu m/s$, we can calculate the time taken for the cells to reach the top, assuming the cells exhibit directed photoactic swimming. We also assume an upper limit for slow cells to be $v_{slow} \approx 40 \mu m/s$.
