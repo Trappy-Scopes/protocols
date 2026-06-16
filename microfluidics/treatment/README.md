@@ -29,8 +29,7 @@ A dillute Tween20 solution is recommended for cleaning coated devices — [Darwi
 3. [Reddit labrats : How long do you guys keep your diluted BSA standards (Bradford)?](https://www.reddit.com/r/labrats/comments/113az09/how_long_do_you_guys_keep_your_diluted_bsa/)
 4. [C–Trap Cleaning and Passivation Protocol](https://store.lumicks.com/wp-content/uploads/C-Trap-Cleaning-and-Passivation-Protocol.pdf)
 5. [Merk: Albumins and Transport Proteins](https://www.sigmaaldrich.com/PT/en/products/cell-culture-and-analysis/cell-culture-supplements-and-reagents/albumins-and-transport-proteins) : also contains purchase links.
-
-
+6. [BSA purchase link](https://www.merckmillipore.com/BO/en/products/cell-culture-and-analysis/cell-culture-supplements-and-reagents/albumins-and-transport-proteins/bovine-serum-albumin?country=BO&language=en&cmsRoute=products&cmsRoute=cell-culture-and-analysis&cmsRoute=cell-culture-supplements-and-reagents&cmsRoute=albumins-and-transport-proteins&cmsRoute=bovine-serum-albumin&term=12659&page=1)
 
 
 
@@ -63,7 +62,13 @@ Growing cells (CR CC125) with at a low concentration of Tween 20 (0.05% Tween20 
 
 ## Cleaning of microfluidics
 
-Cleaning procedure included the following passages using a multiplexed pumping system [Trappy-Scopes/plumbing](https://github.com/Trappy-Scopes/plumbing):
+Tween20 is an effective and safe detergent for cleaning. Efficacy of 0.1% Tween 20 for cleaning BSA adsorption has been explicitly studied (however not on glass).[^cleaningbsa ] 
+
+> "In most of the cases (except for BSA on metals), Tween-20 performed equally well. In addition, Tween-20 shows often a very high efficiency after a single rinsing step."
+
+
+
+We use an "over-kill" cleaning procedure, which is described below. The following liquid perfusions were performed using a multiplexed pumping system [Trappy-Scopes/plumbing](https://github.com/Trappy-Scopes/plumbing):
 
 1. Pass ~5mL of $ddH_2O$.
 2. Pass ~5mL of 0.5% Tween20 in $ddH_2O$.
@@ -76,8 +81,14 @@ Cleaning procedure included the following passages using a multiplexed pumping s
 ### Reading material
 
 1. [Darwin microfluidics : How to Clean Your Microfluidic Chip: A Comprehensive Guide](https://blog.darwin-microfluidics.com/how-to-clean-your-microfluidic-chip/#Conclusion)
+
 2. [Efficient cleaning of a microfluidic chip](https://blogs.rsc.org/chipsandtips/2016/02/08/efficient-cleaning-of-a-microfluidic-chip/?doing_wp_cron=1765324150.4516239166259765625000)
+
 3. [A simple trick to open up clogged microfluidic chip](https://blogs.rsc.org/chipsandtips/2013/07/18/a-simple-trick-to-open-up-clogged-microfluidic-chip/)
+
+4. [^cleaningbsa]: [Cleaning of biomaterial surfaces: Protein removal by different solvents ](https://www.sciencedirect.com/science/article/pii/S0927776515000922?via%3Dihub)
+
+5. Translation required because it is in Chinease: [Interaction between Tween-20 and BSA](https://www.whxb.pku.edu.cn/EN/10.3866/PKU.WHXB20050808)
 
 
 

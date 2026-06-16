@@ -2,9 +2,16 @@
 
 
 
+## Overview
+
+1. [Selection of good swimmers](selectswimmers.md). Also check the calculations below.
+2. [Dark Acclimation](#Dark Acclimation) :: this protocol is required.
+
+
+
 ## Selection of swimmers :: [current protocol](./selectswimmers.md)
 
-This is aapted from a few different literature sources. However, the bulk of the calculation is adapted from Baumchen 2025.[^baumchen2025]:
+This is adapted from a few different literature sources. However, the calculation for centrifugation time is adapted from Baumchen 2025.[^baumchen2025]:
 
 ### Settling by centrifugation
 
@@ -50,5 +57,9 @@ A time window between the last two columns must be chosen for an effective isola
 
 
 
-[baumchen2025]: Catalan, R. E., Fragkopoulos, A. A., Girot, A., Lorenz, M. & Bäumchen, O. Preparation, maintenance and propagation of synchronous cultures of photoactive Chlamydomonas cells. *Nat Protoc* 1–26 (2025) doi:[10.1038/s41596-024-01135-3](https://doi.org/10.1038/s41596-024-01135-3)]
+[^baumchen2025]: Catalan, R. E., Fragkopoulos, A. A., Girot, A., Lorenz, M. & Bäumchen, O. Preparation, maintenance and propagation of synchronous cultures of photoactive Chlamydomonas cells. *Nat Protoc* 1–26 (2025) doi:[10.1038/s41596-024-01135-3](https://doi.org/10.1038/s41596-024-01135-3)]
+
+
+
+## Dark Acclimation
 
