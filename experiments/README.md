@@ -12,11 +12,11 @@ The cell culture is centrifuged to force the cells to settle at the bottom. Then
 
 
 $$
-v = \frac{2}{9}\frac{\rho_{cell} - \rho_{fluid}}{\mu}aR_{cell}^2 = 0.19\ \frac{mm}{s}
+v = \frac{2}{9}\frac{\rho_{cell} - \rho_{fluid}}{\mu}a {\frac{D_{cell}}{2}}^2 = 0.19\ \frac{mm}{s}
 $$
 
 
-given the $\rho_{cel}l − \rho_{fluid} \approx 50 kg/m^3$; the viscosity of the fluid $\mu \approx 1mPa\cdot s$, $R_{cell} \approx 3.5 \mu m$, which is the diamter of the smaller cells with the median $\tilde{R}_{cell} \approx 5.5 \mu m$ (at 1000 hours, obtained from Coulter counter experiments); and $a=200g$ (fixed). Based on the terminal speed, the time taken by cells to settle down can be calculated using the height of the :
+given the $\rho_{cel}l − \rho_{fluid} \approx 50 kg/m^3$; the viscosity of the fluid $\mu \approx 1mPa\cdot s$, the median diameter of the cell is $\tilde{D}_{cell} \approx 5.5 \mu m$ (at 1000 hours, obtained from Coulter counter experiments); and $a=200g$ (fixed). Based on the terminal speed, the time taken by cells to settle down can be calculated using the height of the :
 
 For a standard $50mL$ centrifuge conical tube (Sarstedt), and different culture volumes, the height of the liquid columns are as follows (measures):
 
