@@ -27,9 +27,9 @@ Preferably, this procedure should be done after an hour of the beginning of the 
 
 3. After the centrifugation finishes, put it in the incubator with a strong light source on the top.
 
-4. Incubate for **2-3mins **for **light separation**. During this time good swimmers swim to the top.
+4. Incubate for **60 minutes** for light separation . During this time good swimmers swim to the top.
 	
-5. After this is done, isolate $\approx 0.5-1.5mL$ based on density of the raw culture. It is okay to identify densities based on color.
+5. After this is done, isolate $\approx 1.0-2.0mL$ based on density of the raw culture. It is okay to identify densities based on color.
 
 	| Color                                        | Extract volume |
 	| -------------------------------------------- | -------------- |
@@ -37,7 +37,7 @@ Preferably, this procedure should be done after an hour of the beginning of the 
 	| Light green: $10^4$ to $10^5$ cells/mL       | 1mL            |
 	| Very light green: $\approx 10^4$ cells/mL    | 1.5mL          |
 	
-6. Extract the said volume, and dilute the culture to $20mL$ using fresh media.
+6. Extract the said volume, and dilute the culture to $20mL$ using fresh media. For ensemble experiments, extract more if required.
 
 7. The culture is ready for use. Shade the shott bottle with Aluminium foil or a proper system and store in a dark place for dark acclimation.
 
