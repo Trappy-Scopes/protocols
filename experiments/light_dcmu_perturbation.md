@@ -55,19 +55,21 @@ references: masterprotocol_June26.md, selectswimmers.md, bsa_treatment.md, light
 
 ### Light conditions
 
-| # | Condition | Medium | Light from t₀ |
-|---|---|---|---|
-| 1 | **Control** | vehicle-TAPP | Red (627 nm), continuous |
-| 2 | **Dark** | vehicle-TAPP | Red on only during acquisition, off otherwise |
-| 3 | **Red + DCMU** | DCMU-TAPP | Red (627 nm), continuous |
-| 4 | **White** | vehicle-TAPP | Red, plus green and blue at max operational voltage, continuous |
+Acquisition light is **identical for all four conditions**: red (627 nm) at **0.5 V**. Only the long-term light between acquisitions is condition-specific.
+
+| # | Condition | Medium | Long-term light (from t₀, between acquisitions) | Acquisition light |
+|---|---|---|---|---|
+| 1 | **Control** | vehicle-TAPP | Red (627 nm), continuous | Red 0.5 V |
+| 2 | **Dark** | vehicle-TAPP | Off | Red 0.5 V |
+| 3 | **Red + DCMU** | DCMU-TAPP | Red (627 nm), continuous | Red 0.5 V |
+| 4 | **White** | vehicle-TAPP | Red, plus green and blue at max operational voltage, continuous | Red 0.5 V (green and blue off) |
 
 1. **Red setting (all conditions):** Set the red LED from each scope's calibration curve to give **1.5–2 µmol m⁻² s⁻¹** at the sample plane. 
 2. **Room light:** Keep room lights off and the scopes shielded for the whole run.
 3. **Setup:** Mount, align and trap under the control red light on every scope, keeping the time roughly equal across scopes. 
 4. **Trapping:** Apply control red light conditions during trapping.
-5. **t₀:** Apply each scope's condition light and start acquisition. Dark scopes acquire the 0th split under red like all others, then switch to dark. For the white conditions, the light is switched at t₀ to acquisition light and the first acquisition is immediate after the light switch. The acquisition schedule is identical for all conditions. 
-6. **Metadata:** For each scope, record the condition, medium, stock aliquot number, LED voltages (R/G/B), measured PPFD and t₀.
+5. **t₀:** Apply each scope's condition light and start acquisition. Dark scopes acquire the 0th split under red like all others, then switch to dark. For the white conditions, green and blue are switched off for every acquisition (red only, 0.5 V) and back on when it ends; at t₀ the first acquisition starts immediately after the light switch. The acquisition schedule is identical for all conditions. 
+6. **Metadata:** For each scope, record the condition, medium, stock aliquot number, LED voltages (R/G/B) for both the long-term and the acquisition light, measured PPFD and t₀.
 
 ## Additional Information
 
@@ -75,7 +77,7 @@ references: masterprotocol_June26.md, selectswimmers.md, bsa_treatment.md, light
 2. **DCMU carry-over:** Carry-over from V_r dilutes the DCMU to about 9 µM. For exactly 10 µM, make DCMU-TAPP with 16.5 µL stock per 15 mL, and vehicle-TAPP with 49.5 µL ethanol per 45 mL.
 3. **Why one batch:** One weighing split into aliquots gives every day and every experiment block, including the later dark + DCMU control, the same dose. Separate weighings would add dose variation between days, and day is the replicate. Sealed aliquots at −20 °C should keep for a few months; DCMU is chemically stable, so mass loss (evaporation) is the check.
 4. **Why flush with DCMU-TAPP:** DCMU partitions into PDMS. Flushing with DCMU-TAPP pre-equilibrates the device and stops leftover BSA or plain media from lowering the dose.
-5. **White PPFD:** The white condition has a higher total PPFD than the red conditions. The total PPFD can be recovered from the light calibration data.
+5. **White PPFD:** The white condition has a higher total PPFD than the red conditions. The total PPFD can be recovered from the light calibration data. Because the acquisition light is the same in all conditions, image contrast and tracking are directly comparable.
 6. **Pre-exposure:** Light separation exposes all cells to strong white light (80–100 µmol m⁻² s⁻¹) before the experiment. This is identical across conditions, but early time points may still carry a transient from it.
 7. **Planned control:** Dark + DCMU is planned as a later DCMU-only control.
 8. **Safety:** DCMU is toxic. Handle it with gloves and dispose of DCMU media as chemical waste.
